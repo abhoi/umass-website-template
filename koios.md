@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Koios
-permalink: /blog/
+permalink: /koios/
 ---
 
 Koios /ˈsiːəs/ (Ancient Greek: Κοῖος, "query, questioning")
