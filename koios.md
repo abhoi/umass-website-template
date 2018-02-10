@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Blog
+title: Koios
 permalink: /blog/
 ---
 
-Tell us about your blog. Hopefully it's cool.
+Koios /ˈsiːəs/ (Ancient Greek: Κοῖος, "query, questioning")
 
 <ul class="listing">
 {% for post in site.posts %}
