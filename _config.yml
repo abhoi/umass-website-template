@@ -12,7 +12,7 @@ github_username:  abhoi
 markdown: kramdown
 
 # Other options
-permalink: koios/:year/:month/:title
+permalink: blog/:year/:month/:title
 job.title: "CS Graduate Student"
 excerpt_separator: "<!--more-->"
 
