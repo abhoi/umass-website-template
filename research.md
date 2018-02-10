@@ -6,8 +6,8 @@ permalink: /research/
 
 This page is being updated and will be available soon! Thanks!
 
-Recommender Systems in Keras: https://nipunbatra.github.io/blog/2017/recommend-keras.html
-PCA & t-SNE: https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b
+- Recommender Systems in Keras: https://nipunbatra.github.io/blog/2017/recommend-keras.html
+- PCA & t-SNE: https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b
 
 Sed in egestas enim. Cras dapibus leo ligula, ut ultricies eros imperdiet sed. Morbi urna neque, suscipit sit amet fermentum ac, vehicula tempor felis. Quisque sed velit nisi. Aenean ullamcorper, purus a vehicula pretium, diam sem convallis sem, vel accumsan augue tortor in nibh. Ut ultrices hendrerit metus id suscipit. Vivamus mattis neque felis. Nullam vulputate augue id dolor consectetur, in commodo tortor efficitur. Nunc aliquet magna nibh, ut pretium turpis ultricies vel.
 
