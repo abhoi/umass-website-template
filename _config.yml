@@ -2,7 +2,7 @@
 title: Amlaan Bhoi
 email: abhoi3@uic.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Grad student @UIC MSCS '19. Computer vision, data & text mining, data science. Occasional iOS development (Swift & ARKit). Former intern <a href="https://www.linkedin.com/company/reliance-communications/">@Reliance</a> and <a href="https://www.linkedin.com/company/osscube">@OSSCube</a>.
+  Grad student @UIC MSCS '19. Computer vision, data & text mining, data science. Occasional iOS development (Swift & ARKit). Former intern <a href="https://www.linkedin.com/company/reliance-communications/">@Reliance</a> and @OSSCube.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://abhoi.github.io" # the base hostname & protocol for your site
 twitter_username: amlaanb
