@@ -6,6 +6,8 @@ permalink: /blog/
 
 Koios /ˈsiːəs/ (Ancient Greek: Κοῖος, "query, questioning")
 
+A blog to hold previous work, thoughts, and experiments. Let's share.
+
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
