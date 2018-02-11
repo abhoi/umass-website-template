@@ -10,11 +10,11 @@
 #- title: "Research Notebook"
   #href: "/notebook"
 
-- title: "CV"
-  href: "/cv/"
-
 - title: "Notebook"
   href: "/notebook/"
+
+- title: "Resume"
+  href: "/cv/"
 
 - title: "Resources"
   href: "/resources/"
