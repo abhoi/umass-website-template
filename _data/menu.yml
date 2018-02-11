@@ -13,6 +13,9 @@
 - title: "CV"
   href: "/cv/"
 
+- title: "Notebook"
+  href: "/notebook/"
+
 - title: "Resources"
   href: "/resources/"
   subcategories:
