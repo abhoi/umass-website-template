@@ -3,6 +3,7 @@ layout: post
 title:  "Advantages and Disadvantages of AR/VR platforms"
 date:   2017-08-31 15:36:27
 categories: virtual-reality augmented-reality
+author: abhoi
 ---
 
 # 1. **Smartphone/Tablet AR**
