@@ -1,0 +1,187 @@
+---
+layout: post
+title: "Project 1 - In Your Room"
+date:   2017-09-14
+categories: virtual-reality augmented-reality
+author: abhoi
+---
+
+This page declares, defines, and provides an exposition for Project 1 (IN YOUR ROOM) for CS 491 - Virtual and Augmented Reality (Fall 2017) class. There are lists of objects and sounds used as well as instructions on how to use the application and run it.
+
+A working demonstration of the application can be found at [CS491 ARVR DEMO](https://www.youtube.com/watch?v=t1uqYR1o1rk&feature=youtu.be). You can also click the image below to access the video.
+
+[![PROJECT1](http://img.youtube.com/vi/t1uqYR1o1rk/0.jpg)](http://www.youtube.com/watch?v=t1uqYR1o1rk)
+
+## **Project Description**
+
+The project description was to create a VR environment for your ideal office space. This space was to be inspired by the new generation Technology startup offices which contain non-traditional furniture and equipment such as bean bags, vending machines, and open segment desks. The application was developed using Unity3D [Unity3D](https://unity3d.com) with the [SteamVR Plugin](http://store.steampowered.com/steamvr). All imported models are from [3DWarehouse Sketchup](https://3dwarehouse.sketchup.com). Custom models were designed and created from ground up using [Sketchup](https://www.sketchup.com).
+
+## **How to Use**
+
+There are two main ways to test the application for your own use
+
+**1.** Run the executable (.exe) file directly. Keyboard controls are mentioned on the screen (WASD). For HTC Vive controller input, you need to download and install [SteamVR Plugin](http://store.steampowered.com/steamvr).
+
+**2.** Download and install [Unity3D](https://unity3d.com) and import the project folder. Then, press the **PLAY** button to run application inside the Unity Editor. This requires more time and only recommended if you wish to edit/add some stuff to the project.
+
+## **What Can You Do with the Application?**
+
+There are many features implemented in this project. This involves physics simulations, collisions, triggers, and audio sounds.
+
+**1. You can pickup and throw various objects and you can grab onto them and catch them in mid air (you need to be really good with VR controllers for that). Following is a list of things you can grab and throw:**
+
+	- EARTHBALL
+    - PENCILCASE
+    - KNIFE
+    - PAPERWEIGHT
+    - WATERGLASSES
+    - IPHONE
+    - CHESSBOARD
+
+![ab_phy1]({{ site.url }}/images/vrar/project1/ab_phy1.gif)
+
+**2. Many objects support BoxColliders only so you can drop stuff on them without the objects falling through. Some of the objects are:**
+
+	- CABINET
+    - TRASHCAN
+    - CUTTINGBOARD
+    - BENCHES
+    - SEGMENTDESKS
+    - CHAIRS
+    - TABLE
+
+![ab_phy2]({{ site.url }}/images/vrar/project1/ab_phy2.gif)
+
+**3. You can click on various applications to trigger sounds such as Mac startup sound and you can loop through 4 songs by clicking on the iPhone on the table! Some items even have sound triggers when they fall onto a surface! Following are the items with sound triggers:**
+
+	- PAPERWEIGHT
+    - WATERGLASSES
+    - IPHONE
+    - IMAC
+    
+**4. Light switches are provided so you can turn on and off any of thE lights as you want. Two of them are:**
+
+	- AB_CHANDELIER_LIGHTSOURCE
+    - AB_FLOORLAMP_LIGHTSOURCE
+
+![ab_phy3]({{ site.url }}/images/vrar/project1/ab_phy3.gif)
+
+## **LINKS**
+
+- The original template and project instructions can be found at [CS 491](https://www.evl.uic.edu/aej/491/index.html).
+
+- All the scripting was referenced using the [Unity Scripting Reference Documentation](https://docs.unity3d.com/ScriptReference/).
+
+- A link to the Unity project folder: [PROJECT1_AMLAAN_DEBOJIT](https://mega.nz/#!pxURxJqB!5RwsXCuWPaRInsHQJ-B3YlUgttn5cNEf3im79kswRR8).
+
+- A list of all the models whether they were created or imported (and where they were imported from) and various textures used can be found at [AB_Models](https://www.dropbox.com/s/vmn7d1q58r7an54/models_list.docx?dl=0).
+
+- A folder with the actual assets can be found at [ASSETS](https://www.dropbox.com/sh/ke5nuimfxmuzmw3/AAB0tvdrLc0z3IaWirTy_cQsa?dl=0).
+
+- A link to access all sound triggers and ambient sound: [SOUND TRIGGERS](https://www.dropbox.com/sh/6mnscodn5maeukc/AAB48Io6Hd2v-HF1JtlAb_Qga?dl=0).
+
+## **LIST & IMAGES SHOWING MODELS**
+
+Following are 7 images taken from the project and annotated to show the models used and their respective positions.
+
+![AB1]({{ site.url }}/images/vrar/project1/ab1.png)
+![AB2]({{ site.url }}/images/vrar/project1/ab2.png)
+![AB3]({{ site.url }}/images/vrar/project1/ab3.png)
+![AB4]({{ site.url }}/images/vrar/project1/ab4.png)
+![AB5]({{ site.url }}/images/vrar/project1/ab5.png)
+![AB6]({{ site.url }}/images/vrar/project1/ab6.png)
+![AB7]({{ site.url }}/images/vrar/project1/ab7.png)
+
+### Custom Made Models using Sketchup
+
+(p) indicates there is physics simulation associated with the object.
+
+1. **EARTHBALL** (http://naturalearth.springercarto.com/ne3_data/8192/textures/2_no_clouds_8k.jpg) (p)
+2. **CABINET** (p)
+3. **NASALOGO** (http://www.dafont.com/forum/attach/orig/5/2/524557.png)
+4. **TRASHCAN** (p)
+5. **PENCILCASE** (p)
+6. **CUTTINGBOARD**(p)
+7. **KNIFE** (p)
+8. **LIGHTSWITCH**
+9. **PAPERWEIGHT** (p)
+10. **FLOORLAMP**
+
+### Imported Models from 3DWarehouse
+
+11. **CLOCK** (http://u3d.as/3hZ)
+12. **PAINTING1** (https://3dwarehouse.sketchup.com/model/u778d2482-c731-4ed7-84fa-8f1143df99e6/English-Fox-Hunting-Oil-Painting)
+13. **PAINTING2** (https://3dwarehouse.sketchup.com/model/uf5e113ca-f2db-433e-92ca-2e73ccea41d9/Robin-Hood-Oil-Painting)
+14. **CHANDELIER** (https://3dwarehouse.sketchup.com/model/68333722-05f7-4ab8-a005-d381db7f1448/33-Meows-Chandelier)
+15. **BENCHES** (https://3dwarehouse.sketchup.com/model/cbcb2880-5168-4aee-8464-316aad84440f/Amsterdam-Bench-by-Modloft) (p)
+16. **WATERGLASSES** (https://3dwarehouse.sketchup.com/model/60ec9d3c3a06441c590f5357e779247/A-Glass-of-Water) (p)
+17. **DELLXPS** (https://3dwarehouse.sketchup.com/model/ea95c406fc342314ab9026e7972b0bcf/Dell-XPS-720H2C-with-Monitor)
+18. **MACBOOKPRO** (https://3dwarehouse.sketchup.com/model/b0ecf1b4-d2d3-4091-a567-eec544509009/2016-MacBook-Pro-13-Touch-Bar-Silver)
+19. **IMAC** (https://3dwarehouse.sketchup.com/model/u85a51096-ef40-45de-ad18-a90e1ef0f2f1/2016-iMac-48-inch-2nd-Generation)
+20. **CHAIRS** (https://3dwarehouse.sketchup.com/model/udebca7b5-a088-4416-b4d7-8ad26d33b245/StudioTK-Keele-Chair) (p)
+21. **PLANTS** (https://3dwarehouse.sketchup.com/model/e9f6c53454e068cb2ff65fa033da81db/House-Plant)
+22. **CARPET** (http://u3d.as/6A3) (p)
+23. **TABLE** (https://3dwarehouse.sketchup.com/model/5904ae3d-0f2f-4e0a-b068-69c3291501be/Noguchi-Rudder-Table) (p)
+24. **SEGMENTDESKS** (https://3dwarehouse.sketchup.com/model/dcc0191b6a895c61c955e5ed03ef3a2f/Watson-Tonic™-2-Segment-Bench) (p)
+25. **IPHONE** (https://3dwarehouse.sketchup.com/model/a43cc5b8-c446-4d35-9d47-ff11cc8c1b5c/Apple-iPhone-7-7-Plus-Product-Red) (p)
+26. **DESKLAMP** (https://3dwarehouse.sketchup.com/model/eb444839b0fc426780c257afea181fa2/Desk-Lamp)
+27. **CEILINGFAN** (https://3dwarehouse.sketchup.com/model/217f260774a8af66e80df3c23687288a/Ceiling-Fan)
+28. **CHESSBOARD** (https://3dwarehouse.sketchup.com/model/d00f08a7aab8bef6c7c51d4ea74651a7/Chessboard) (p)
+29. **LEDTV** (https://3dwarehouse.sketchup.com/model/dc0b9f92-b614-4fac-a598-26e69533a0a6/LG-Signature-OLED-4K-HDR-Curved-Smart-TV-88-Concept)
+30. **APPLETV** (https://3dwarehouse.sketchup.com/model/8d640025-fe2f-419b-9363-1b4213f6c55c/5th-Generation-Apple-TV)
+
+### List of Sounds
+
+1. [ArrestedDevelopment](https://www.youtube.com/watch?v=mEL9xGkF1IM)
+2. [BumpSound](https://www.youtube.com/watch?v=Atu9SrFjjUU)
+3. [CupDrop](https://www.youtube.com/watch?v=ROgos6N0lQY)
+4. [GlassDrop](https://www.youtube.com/watch?v=8Wnb4hpJBTY)
+5. [HelloDarkness](https://www.youtube.com/watch?v=OMDucz7ElP4)
+6. [Illuminati](https://www.youtube.com/watch?v=sahAbxq8WPw)
+7. [InterstellarBackground](https://www.youtube.com/watch?v=ZV9qvauLlmo)
+8. [MacSound](https://www.youtube.com/watch?v=XZ1mpI01evk)
+9. [Rick&Morty](https://www.youtube.com/watch?v=wh10k2LPZiI)
+
+## TELEPORTATION VS WAND CONTROL
+
+Teleportation in the VR environment works on the basis of pointing a laser/pointer towards a spot anywhere in your field of vision. The teleportation happens by transforming the player camera (Steam VR camera in most cases) to that location. The coordinates are passed through a C# or Javascript script. A screenshot of sample teleportation looks like:
+
+
+![ab_teleportation]({{ site.url }}/images/vrar/project1/ab_teleportation.jpeg)
+
+Navigation by wand control is as intuitive as it seems. You can use the HTC Vive [touchpad](https://forums.unrealengine.com/filedata/fetch?id=1104005&d=1460020388) to move around the environment. That of course means you have to set up the control script.
+
+One can easily see the obvious advantages of using a teleportation technique to move around a VR space than a traditional wand based control. **However**, one thing people forget is the slight motion/awareness sickness that comes from teleportation. This is because your sudden environments change quickly and that can be disorienting to some people. In this case, people might prefer to use the traditional method to navigate.
+
+Again, this depends on preference and relies on the level to which the user is accustomed to the VR environment.
+
+## VIRTUAL ROOM VS REAL ROOM
+
+The room available in this project is an apt replica of the real classroom in EVL. Thus, one can accurately compare the differences between VR reality and reality to a high level. Some observations are:
+
+1. The virtual room doesn't feel accurate due to navigation and lack of environment. There are some senses VR cannot take over yet such as smell, touch, and feel. These things lack in the VR reality and is apparent when comparing the EVL classroom. Another difference is the navigation strategy. Even the wand-based movement fails to replicate real life walking.
+
+2. The VR room size is smaller than real life. Of course, this depends on the size of the player and the objects placed in the room. This also depends on the placement of these objects as they determine size. Remember, everything in VR is sized in an absolute manner.
+
+What bolstered the VR room's feeling to a real world scenario? The **physics interaction** was a big one. Picking up objects, grabbing them, throwing them, and catching them with your wand made the experience more real. There was a sense of control and manipulation.
+
+Another thing that helped was the lighting. Sometimes, lighting in VR environments can be weird as they are placed wrong, direction is wrong, or just is not adequate. The lighting placement in this particular scenario was just right and helped realize the environment.
+
+Some things that are hard to replicate in VR are:
+
+- Sense of air and smell
+- Grabbing and throwing is not perfect
+- Scale can be bad if configured incorrectly
+- Object mass and velocity can be improved
+
+These are some real world cues that are hard to replicate in VR.
+
+## FINAL THOUGHTS
+
+My final thoughts on the project:
+
+1. The VR experience is variable and requires a lot of tuning and perfecting to make the experience enjoyable.
+2. The development community is strong and active with great documentation on Unity.
+3. The VR documentation and implementation examples can be made better.
+4. Scripting can be implemented better to reflect live changes rather than loading the scripts everytime.
+5. If setup right, VR is one of the most enjoyable experiences ever.
