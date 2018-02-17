@@ -4,9 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-Koios /ˈsiːəs/ (Ancient Greek: Κοῖος, "query, questioning")
-
-A blog to hold work, thoughts, and experiments. Let's share.
+A blog to hold work, thoughts, and experiments. Things that I find interesting. Let's share.
 
 <ul class="listing">
 {% for post in site.posts %}
