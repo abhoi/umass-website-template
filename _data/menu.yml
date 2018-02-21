@@ -10,8 +10,8 @@
 #- title: "Research Notebook"
   #href: "/notebook"
 
-- title: "Notebook"
-  href: "/notebook/"
+# - title: "Notebook"
+#  href: "/notebook/"
 
 - title: "Resume"
   href: "/cv/"
