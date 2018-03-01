@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-A blog to hold work, thoughts, and experiments. Things that I find interesting. Let's share.
+A blog to hold work, thoughts, and experiments. Let's share.
 
 <ul class="listing">
 {% for post in site.posts %}
