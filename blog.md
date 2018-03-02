@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+permalink: /research/
 ---
 
 A blog to hold work, thoughts, and experiments. Let's share.
