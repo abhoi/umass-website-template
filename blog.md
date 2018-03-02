@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Notebook
-permalink: /research_notebook/
+title: Research
+permalink: /research/
 ---
 
 A blog to hold work, thoughts, and experiments. Let's share.
