@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-A blog to hold work, thoughts, and experiments. Let's share.
+A research page to hold work, thoughts, and experiments. Let's share.
 
 <ul class="listing">
 {% for post in site.posts %}

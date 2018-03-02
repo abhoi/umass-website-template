@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /research-old/
 ---
 
 This page is being updated and will be available soon! Thanks!
