@@ -20,7 +20,11 @@ $base-font-family: 'Roboto', 'Muli', 'Muli', sans-serif;
 }
 @font-face {
 	font-family: "lmroman12";
-	src: url("../fonts/lmroman12-regular.otf")
+	src: url("../fonts/lmroman12-regular.otf");
+}
+@font-face {
+	font-family: "Roboto";
+	src: url("../fonts/Roboto-Regular.ttf")
 }
 $base-font-size:   .95em;
 $small-font-size:  $base-font-size * 0.875;
