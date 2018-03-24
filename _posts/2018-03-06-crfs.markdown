@@ -15,4 +15,4 @@ This page will be updated soon!
 
 $$p(\textbf{y}|X) = \frac{1}{Z_X}\textrm{exp}\left (\sum_{s=1}^{m} \left \langle \textbf{w}_{y_{s}}, \textbf{x}_{s} \right \rangle + \sum_{s=1}^{m-1}T_{y_{s},y_{s+1}}\right)$$
 
-where $$Z_X = \sum_{\mathbf{\hat{y}} \in \mathcal{Y}^{m}}^{ } \textrm{exp}\left (\sum_{s=1}^{m} \left \langle \textbf{w}_{\hat{y}_{s}}, \textbf{x}_{s} \right \rangle + \sum_{s=1}^{m-1}T_{\hat{y}_{s},\hat{y}_{s+1}}\right )$$
+$$Z_X = \sum_{\mathbf{\hat{y}} \in \mathcal{Y}^{m}}^{ } \textrm{exp}\left (\sum_{s=1}^{m} \left \langle \textbf{w}_{\hat{y}_{s}}, \textbf{x}_{s} \right \rangle + \sum_{s=1}^{m-1}T_{\hat{y}_{s},\hat{y}_{s+1}}\right )$$
