@@ -13,4 +13,4 @@ Let's explore Conditional Random Fields, how they are different from Markov Rand
 
 This page will be updated soon!
 
-$$a^2 + b^2 = c^2$$
+p(\textbf{y}|X) = \frac{1}{Z_x}\textrm{exp}\left (\sum_{s=1}^{m} \left \langle \textbf{w}_{y_{s}}, \textbf{x}_{s} \right \rangle + \sum_{s=1}^{m-1}T_{y_{s},y_{s+1}}\right)
