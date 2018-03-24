@@ -11,3 +11,5 @@ author: abhoi
 Let's explore Conditional Random Fields, how they are different from Markov Random Fields, how they can be useful for sequence based classifications (POS tagging among other things), how to train them, and how to perform inference on them.
 
 This page will be updated soon!
+
+$$a^2 + b^2 = c^2$$
