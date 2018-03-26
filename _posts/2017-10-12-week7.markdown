@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IKEA's AR Application Review and Thoughts on AR
+title: [VRAR] IKEA's AR Application Review and Thoughts on AR
 date:   2017-10-12
 categories: virtual-reality augmented-reality
 author: abhoi
