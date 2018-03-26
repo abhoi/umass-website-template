@@ -1,7 +1,7 @@
 ---
 layout: post
 mathjax: true
-title:  "Conditional Random Fields"
+title:  "[AML] Conditional Random Fields"
 date:   2018-03-06 15:36:27
 categories: advanced-machine-learning
 author: abhoi
