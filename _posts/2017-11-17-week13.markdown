@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [VRAR] Student Choice Presentation Technologies Review
+title: "[VRAR] Student Choice Presentation Technologies Review"
 date:   2017-11-17
 categories: virtual-reality augmented-reality
 author: abhoi
