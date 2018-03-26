@@ -8,7 +8,7 @@
 // Our variables
 // $base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 // $base-font-family: 'Roboto', 'Muli', 'Muli', sans-serif;
-$base-font-family: Latex, -apple-system, Roboto, system-ui, BlinkMacSystemFont, "Segoe UI", Ubuntu;
+$base-font-family: Latex, -apple-system, system-ui, Roboto, BlinkMacSystemFont, "Segoe UI", Ubuntu;
 //$base-font-family: Helvetica, Arial, sans-serif;
 // $base-font-family: 'Operator', Helvetica, sans-serif;
 @font-face {
@@ -31,7 +31,7 @@ $base-font-family: Latex, -apple-system, Roboto, system-ui, BlinkMacSystemFont, 
 	font-family: "IBMPlex";
 	src: url("../fonts/IBMPlexSans-Text.otf");
 }
-$base-font-size:   .95em;
+$base-font-size:   1.2em;// .95em;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
