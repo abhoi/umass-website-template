@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [VRAR] Comment on Project 1 (Other Teams)
+title: "[VRAR] Project 1 Review"
 date:   2017-10-04
 categories: virtual-reality augmented-reality
 author: abhoi
