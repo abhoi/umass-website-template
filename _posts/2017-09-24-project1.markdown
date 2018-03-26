@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "VRAR Project 1 - In Your Room"
+title: "[VRAR] Project 1 - In Your Room"
 date:   2017-09-24
 categories: virtual-reality augmented-reality
 author: abhoi
