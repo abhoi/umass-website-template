@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VRAR Project 3 Proposal - ARYouThereYet
+title: [VRAR] Project 3 Proposal - ARYouThereYet
 date:   2017-11-02
 categories: virtual-reality augmented-reality
 author: abhoi
