@@ -8,7 +8,7 @@
 // Our variables
 // $base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 // $base-font-family: 'Roboto', 'Muli', 'Muli', sans-serif;
-$base-font-family: verdana, -apple-system, Roboto, system-ui, BlinkMacSystemFont, "Segoe UI", Ubuntu;
+$base-font-family: Latex, -apple-system, Roboto, system-ui, BlinkMacSystemFont, "Segoe UI", Ubuntu;
 //$base-font-family: Helvetica, Arial, sans-serif;
 // $base-font-family: 'Operator', Helvetica, sans-serif;
 @font-face {
@@ -20,8 +20,8 @@ $base-font-family: verdana, -apple-system, Roboto, system-ui, BlinkMacSystemFont
     src: url("../fonts/OperatorMono-Light.otf");
 }
 @font-face {
-	font-family: "lmroman12";
-	src: url("../fonts/lmsans12-regular.otf");
+	font-family: "Latex";
+	src: url("../fonts/lmroman12-regular.otf");
 }
 @font-face {
 	font-family: "Roboto";
